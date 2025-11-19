@@ -50,7 +50,7 @@ Serveur-Mediatheque/
 │
 ├── mediatheque.sql             # Script SQL de création et remplissage de la base MySQL
 ├── Rapport Archi Logicielle.pdf# Rapport de conception (architecture logicielle)
-└── readMe.txt                  # Ancien mini-readme d'origine
+└── README.md                  
 ```
 ## 🧱 Base de données
 
