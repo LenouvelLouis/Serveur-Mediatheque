@@ -58,9 +58,9 @@ Le script mediatheque.sql contient :
 
 La création de la base et des tables principales :
 
- - abonne : informations sur les abonnés (id, nom, dateNaissance)
- - document : documents de la médiathèque (id, titre, adulte, Emprunteur)
- - Des données de test (abonnés et documents pré-remplis)
+- abonne : informations sur les abonnés (id, nom, dateNaissance)
+- document : documents de la médiathèque (id, titre, adulte, Emprunteur)
+- Des données de test (abonnés et documents pré-remplis)
 
 Pour initialiser la base :
 
