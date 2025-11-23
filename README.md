@@ -87,7 +87,7 @@ The document Software Architecture Report.pdf details:
  - The distribution of responsibilities between the server and client sides
  - The main business rules
 
-# 👤 Author
+# 👤 Authors
 University project based on a media library server in Java.
 - [ESTEVES Gabriel](https://github.com/GabrielEstevesDev)
 - [LENOUVEL Louis](https://github.com/LenouvelLouis)
@@ -179,7 +179,7 @@ Le document Rapport Archi Logicielle.pdf détaille :
  - La répartition des responsabilités côté serveur / client
  - Les règles métier principales
 
-# 👤 Auteur
+# 👤 Auteurs
 Projet universitaire autour d’un serveur de médiathèque en Java.
 - [ESTEVES Gabriel](https://github.com/GabrielEstevesDev)
 - [LENOUVEL Louis](https://github.com/LenouvelLouis)
