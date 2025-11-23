@@ -1,5 +1,7 @@
 # Media Library Server
 French version below / English version above
+
+
 Java client-server application for managing a simple media library (subscribers and documents) with data persistence in a MySQL database.
 
 This project was carried out as part of a software architecture assignment.  
